@@ -1,3 +1,6 @@
+Jose Gallozo Victor Angel  3522IS 
+link dominio:
+link video:https://www.youtube.com/channel/UCmQ0Kv12RQE1JNbEuzu7PZA
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
